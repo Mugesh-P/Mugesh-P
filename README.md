@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mugesh-p&label=Profile%20views&color=0e75b6&style=flat" alt="mugesh-p" /> </p>
 
-- 🔭 I’m currently working on **Selenium Automation Development**
-
-- 🌱 I’m currently learning **Robot and PyTest Framework**
+- 🔭 I’m currently working on **Data Engineering**
 
 - 📫 How to reach me **mugeshp1003@gmail.com**
 
